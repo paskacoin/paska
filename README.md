@@ -1,14 +1,19 @@
-![paska](https://github.com/user-attachments/assets/29ffeca8-35ef-4e37-9bc3-f0bdc5ee8375)
 
 ```
 __________  _____    _____________  __.  _____                 .__         
 \______   \/  _  \  /   _____/    |/ _| /  _  \     ____  ____ |__| ____   
  |     ___/  /_\  \ \_____  \|      <  /  /_\  \  _/ ___\/  _ \|  |/    \  
- |    |  /    |    \/        \    |  \/    |    \ \  \__(  <_> )  |   |  \ 
+ |    |  /    |    \/        \    |  \/    |    \ \  \__(  <_> )  |   |  \  
  |____|  \____|__  /_______  /____|__ \____|__  /  \___  >____/|__|___|  / 
                  \/        \/        \/       \/       \/              \/  
                    
 ```
+
+![paska](https://github.com/user-attachments/assets/29ffeca8-35ef-4e37-9bc3-f0bdc5ee8375)
+
+
+# 🚀 IT IS WHAT IT IS! 
+
 
 # 🚀 Paska Coin (KRC20) - The Future of Crypto on Kaspa Network 🌐 
 
