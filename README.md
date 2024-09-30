@@ -30,7 +30,7 @@ Don't miss out on the opportunity to be part of something big. Whether you're a 
 
 ## 📈 Roadmap
 
-1. **Q3 2024**: Launch of Paska Coin on the Kaspa network.
+1. **Q3 2024**: Launch of Paska Coin on the Kaspa network -> DONE!
 2. **Q4 2024**: Integration with Higher Forces.
 3. **Q1 2025**: Community fudding events
 4. **Q2 2025**: Expansion of the Paska Coin ecosystem. Expansion to the dumpster.
