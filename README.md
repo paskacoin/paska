@@ -1,6 +1,9 @@
-# 🚀 Paska Coin (KRC20) - The Future of Crypto on Kaspa Network 🌐
+![paska](https://github.com/user-attachments/assets/29ffeca8-35ef-4e37-9bc3-f0bdc5ee8375)
 
-Welcome to **Paska Coin** - the![paska](https://github.com/user-attachments/assets/29ffeca8-35ef-4e37-9bc3-f0bdc5ee8375)
+
+# 🚀 Paska Coin (KRC20) - The Future of Crypto on Kaspa Network 🌐 
+
+Welcome to **Paska Coin** - the
  ultimate KRC20 token on the blazing-fast Kaspa network! Get ready to experience the next level of crypto innovation and financial derpness. 🌟
 
 ## 🌟 What is Paska Coin?
